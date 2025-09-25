@@ -1,0 +1,16 @@
+anndata
+scanpy
+harmonypy
+seaborn
+matplotlib
+numpy
+pandas
+scikit-learn
+statsmodels
+scipy
+gseapy
+lifelines
+infercnvpy
+squidpy
+mygene
+session-info

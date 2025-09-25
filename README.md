@@ -1,5 +1,3 @@
-# Gastric-Cancer-scRNA-seq-Analysis-Pipeline---GSE163558
-
 # Gastric Cancer scRNA-seq Analysis Pipeline
 
 This project is a Python reimplementation of the gastric cancer single-cell RNA sequencing analysis pipeline based on the GSE163558 dataset, including TCGA data integration.
@@ -177,4 +175,4 @@ This project is for academic research purposes only. Please comply with relevant
 
 ## Contact
 
-Please submit issues on GitHub if you have any questions
+Please submit issues on GitHub if you have any questions.
